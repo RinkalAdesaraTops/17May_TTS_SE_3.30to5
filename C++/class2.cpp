@@ -17,5 +17,7 @@ class emp{
 		}
 };
 main(){
-	
+	emp e1;
+	e1.getData();
+	e1.putData();	
 }
